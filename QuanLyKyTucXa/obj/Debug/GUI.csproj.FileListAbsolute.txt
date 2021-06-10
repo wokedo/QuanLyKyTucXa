@@ -1,0 +1,122 @@
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.dll
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.pdb
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormTrangChu.resources
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormSinhVien.resources
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.QuanLyHopDong.resources
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.btnPhong.resources
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormQuanLyPhong.resources
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormSinhVien.resources
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormTrangChu.resources
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.QuanLyHopDong.resources
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.dll
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.pdb
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.pdb
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.btnPhong.resources
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormQuanLyPhong.resources
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormSinhVien.resources
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormTrangChu.resources
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.QuanLyHopDong.resources
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.dll
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.pdb
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.btnPhong.resources
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormQuanLyPhong.resources
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormSinhVien.resources
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormTrangChu.resources
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.QuanLyHopDong.resources
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.dll
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.pdb
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.btnPhong.resources
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormQuanLyPhong.resources
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormSinhVien.resources
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormTrangChu.resources
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.QuanLyHopDong.resources
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.pdb
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.btnPhong.resources
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormQuanLyPhong.resources
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormSinhVien.resources
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormTrangChu.resources
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.QuanLyHopDong.resources
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.pdb
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.btnPhong.resources
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormQuanLyPhong.resources
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormSinhVien.resources
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormTrangChu.resources
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.QuanLyHopDong.resources
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL.dll
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL.pdb
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL.dll
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.dll
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL.pdb
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\bin\Debug\BLL_DAL.pdb
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.btnPhong.resources
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormQuanLyPhong.resources
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormSinhVien.resources
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormTrangChu.resources
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.QuanLyHopDong.resources
+E:\BaiTap\QuanLyKyTucXa\QuanLyKyTucXa\obj\Debug\GUI.csproj.GenerateResource.Cache

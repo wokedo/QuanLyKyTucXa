@@ -1,0 +1,40 @@
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.pdb
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.dll
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.pdb
+F:\Phân tích thiết kế hệ thống\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\Phân Tích TKHTTT\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\Admin\Downloads\Đồ án quản lý kí túc xá\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\Phân Tích TKHTTT\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\23_Quản lý ký túc xá\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\BaiTap\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\BaiTap\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\BaiTap\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\BaiTap\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+E:\BaiTap\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\BaiTap\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.pdb

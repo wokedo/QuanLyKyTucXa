@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\DELL\Desktop\23_QuanLyKyTucXa\23_Quanlykytucxa\QuanLyKyTucXa\BLL_DAL\obj\Debug\BLL_DAL.pdb

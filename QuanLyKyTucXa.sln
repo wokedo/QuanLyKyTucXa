@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "QuanLyKyTucXa\GUI.csproj", "{9FE4DC10-4218-4590-A66B-3B5C37173BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_DAL", "BLL_DAL\BLL_DAL.csproj", "{04F5F5AF-9A88-4C67-8129-E9BBBB7D9852}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hinhthe", "hinhthe", "{5A1B795F-B958-4C43-AEC0-6344E9581490}"
+	ProjectSection(SolutionItems) = preProject
+		$this.BackgroundImage.png = $this.BackgroundImage.png
+		dung.jpg = dung.jpg
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{A25E384E-5CF5-4FC0-9F49-A30B9D9752EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE4DC10-4218-4590-A66B-3B5C37173BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE4DC10-4218-4590-A66B-3B5C37173BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE4DC10-4218-4590-A66B-3B5C37173BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE4DC10-4218-4590-A66B-3B5C37173BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F5F5AF-9A88-4C67-8129-E9BBBB7D9852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F5F5AF-9A88-4C67-8129-E9BBBB7D9852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F5F5AF-9A88-4C67-8129-E9BBBB7D9852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F5F5AF-9A88-4C67-8129-E9BBBB7D9852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25E384E-5CF5-4FC0-9F49-A30B9D9752EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25E384E-5CF5-4FC0-9F49-A30B9D9752EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25E384E-5CF5-4FC0-9F49-A30B9D9752EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25E384E-5CF5-4FC0-9F49-A30B9D9752EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
